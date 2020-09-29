@@ -3,6 +3,7 @@
   "description": "This will automate calculator App.",
   "main": "Flowchart_7_Scan_pdf_and_update_on_Desktop_Application_project.xaml",
   "dependencies": {
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Excel.Activities": "[2.8.6]",
     "UiPath.Mail.Activities": "[1.8.6]",
     "UiPath.PDF.Activities": "[3.2.2]",
